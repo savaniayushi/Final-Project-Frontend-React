@@ -1,0 +1,14 @@
+.abs{
+    position: relative;
+
+}
+.cls{
+    position: absolute;
+    margin-left: 17px;
+}
+@media only screen and (max-width: 600px) {
+    .cls{
+        position: absolute;
+        margin-left: 424px;
+    }
+  }
